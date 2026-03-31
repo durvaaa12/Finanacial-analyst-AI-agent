@@ -25,3 +25,9 @@ An intelligent **Financial AI Agent** built using **Phidata** and **open-source 
 ---
 
 ## 📂 Project Structure
+Financial-AI-Analyst/
+│── myenv/ # Virtual environment
+│── financial_agent.py # Main application file
+│── playground.py # AI agent logic
+│── requirements.txt # Dependencies
+│── README.md # Documentation
